@@ -1,13 +1,12 @@
 ![Profile views](https://gpvc.arturio.dev/Ganesh07) 
-### Hi , I'm Ganesh 👋
-
+### Hi there 👋, Ganesh Here !....
+#### Design and Development 
 I'am IT Student Studying in the International Institute of Information Technology , Pune( I2IT ) . I am currently Learning Data Science , Full Stack development . I'm always enthusiast to do work on the innovation ideas ☺️
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganesh07)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Hi there 👋, Ganesh Here !....
-#### Design and Development 
+
 ![Design and Development ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'am IT Student Studying in the International Institute of Information Technology , Pune( I2IT ) . I am currently Learning Data Science , Full Stack development . I'm always enthusiast to do work on the innovation ideas ☺️
