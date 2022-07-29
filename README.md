@@ -1,6 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/Ganesh07) 
 ### Hi there 👋, Ganesh Here !....
 #### Design and Development 
+##About Me....
 I'am IT Student Studying in the International Institute of Information Technology , Pune( I2IT ) . I am currently Learning Data Science , Full Stack development . I'm always enthusiast to do work on the innovation ideas ☺️
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganesh07&show_icons=true)  
