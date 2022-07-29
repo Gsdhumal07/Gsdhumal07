@@ -1,3 +1,4 @@
+![Profile views](https://gpvc.arturio.dev/Ganesh07) 
 ### Hi , I'm Ganesh 👋
 
 I'am IT Student Studying in the International Institute of Information Technology , Pune( I2IT ) . I am currently Learning Data Science , Full Stack development . I'm always enthusiast to do work on the innovation ideas ☺️
@@ -16,7 +17,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ganesh07)  
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
@@ -32,7 +32,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ganesh07)  
 
-![Profile views](https://gpvc.arturio.dev/Ganesh07)  
+ 
 
 
 
