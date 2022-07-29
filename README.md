@@ -7,9 +7,7 @@ I'am IT Student Studying in the International Institute of Information Technolog
 
 
 
-![Design and Development ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'am IT Student Studying in the International Institute of Information Technology , Pune( I2IT ) . I am currently Learning Data Science , Full Stack development . I'm always enthusiast to do work on the innovation ideas ☺️
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
