@@ -33,7 +33,8 @@ ________________________________________________________________________________
 - 🌱 I’m currently learning  Data Science 
 _________________________________________________________________________________________________________________________________________________________________
 
-#### Social Media : 
+#### Connect with Me : ![image](https://user-images.githubusercontent.com/89744859/181835883-a0424d7f-1e6e-4aba-a36f-19a1122c1d9c.png)
+
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
