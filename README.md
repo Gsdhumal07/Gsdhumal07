@@ -7,8 +7,8 @@ I'am IT Student Studying in the International Institute of Information Technolog
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganesh07&show_icons=true)  
 Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
-- 🔭 I’m currently working on Full stack development  
+
+- 🔭 I’m  working on Full stack development  
 - 🌱 I’m currently learning  Data Science 
 
 
