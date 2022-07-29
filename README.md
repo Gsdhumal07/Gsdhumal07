@@ -3,17 +3,17 @@
 #### Design and Development 
 I'am IT Student Studying in the International Institute of Information Technology , Pune( I2IT ) . I am currently Learning Data Science , Full Stack development . I'm always enthusiast to do work on the innovation ideas ☺️
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganesh07&show_icons=true)  
 Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganesh07&show_icons=true)  
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ganesh07)  
 
-![GitHub metrics](https://metrics.lecoq.io/Ganesh07)  
+ 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ganesh07)  
 
