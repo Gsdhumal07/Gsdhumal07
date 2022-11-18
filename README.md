@@ -5,12 +5,12 @@ ________________________________________________________________________________
 
 
 #### About Me....
-I'am IT Student Studying in the International Institute of Information Technology , Pune( I2IT ) . I am currently Learning Data Science , Full Stack development . I'm always enthusiast to do work on the innovation ideas ☺️
+I'am IT Student Studying in the International Institute of Information Technology , Pune( I2IT ) . I am currently Learning Data Science , Full Stack development . I'm always enthusiast to do work on the innovation ideas , ☺️
 _________________________________________________________________________________________________________________________________________________________________
 
 #### Skills :
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganesh07&show_icons=true)  
+
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
  ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
