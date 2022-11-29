@@ -11,8 +11,9 @@
 - 💬 Ask me about ** Web Deveopment &  Android **
 
 - 📫 How to reach me **gsdhumal2002@gmail.com**
+- 🔭 I’m currently working on ...
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 🤝 Connect with me: 🤝 </h3>
 <p align="left">
 <a href="https://twitter.com/dhumalgs007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhumalgs007" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ganesh-dhumal-39b5a3212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh-dhumal-39b5a3212" height="30" width="40" /></a>
@@ -28,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gsdhumal07&show_icons=true&locale=en" alt="gsdhumal07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gsdhumal07&" alt="gsdhumal07" /></p>
+
+<a href="Ganesh dhumal Resume (1).pdf">📄 Know about my experiences</a>
