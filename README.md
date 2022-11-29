@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ganesh</h1>
-<h3 align="center">A passionate frontend developer and Graphics Designer </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...
+<h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="pp.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gsdhumal07&label=Profile%20views&color=0e75b6&style=flat" alt="gsdhumal07" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gsdhumal07.github.io/Portfolio_website/](https://gsdhumal07.github.io/Portfolio_website/)
 
-- 💬 Ask me about ** Front Development Android **
+- 💬 Ask me about ** Web Deveopment &  Android **
 
 - 📫 How to reach me **gsdhumal2002@gmail.com**
 
@@ -28,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gsdhumal07&show_icons=true&locale=en" alt="gsdhumal07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gsdhumal07&" alt="gsdhumal07" /></p>
-
