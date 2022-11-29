@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gsdhumal07.github.io/Portfolio_website/](https://gsdhumal07.github.io/Portfolio_website/)
 
-- 💬 Ask me about **HTML CSS**
+- 💬 Ask me about ** Front Development Android **
 
 - 📫 How to reach me **gsdhumal2002@gmail.com**
 
