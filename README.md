@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/dhumalgs007" target="blank"><img src="https://img.shields.io/twitter/follow/dhumalgs007?logo=twitter&style=for-the-badge" alt="dhumalgs007" /></a> </p>
 
-- 👨‍💻 All of my projects are available at ["https://gsdhumal07.github.io/Portfolio_website/"]
+- 👨‍💻 All of my projects are available at ["https://astounding-marigold-2f18c3.netlify.app/"]
 
 
 - 💬 Ask me about ** Web Deveopment &  Android **
