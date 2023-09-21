@@ -31,4 +31,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gsdhumal07&" alt="gsdhumal07" /></p>
 
-<a type="download" href="Ganesh dhumal Resume (1).pdf">📄 Know about my experiences</a>
