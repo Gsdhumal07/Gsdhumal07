@@ -11,7 +11,7 @@
 
 - 💬 Ask me about ** Web Deveopment &  Android **
 
-- 📫 How to reach me **gsdhumal2002@gmail.com**
+- 📫 How to reach me **ganeshsdhumal007@gmail.com**
 - 🔭 I’m currently working on ...
 
 <h3 align="left"> 🤝 Connect with me: 🤝 </h3>
